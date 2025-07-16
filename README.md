@@ -1,2 +1,2 @@
 # kiro-streamlit
-kiro 로 만드는 streamlit
+kiro 로만 sreamlit 만들기
