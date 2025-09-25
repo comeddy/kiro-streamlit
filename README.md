@@ -50,7 +50,7 @@
 ### 1. 저장소 클론
 ```bash
 git clone <repository-url>
-cd stock-investment-strands-agent
+cd <repository-name>
 ```
 
 ### 2. 가상환경 생성 및 활성화
