@@ -195,4 +195,4 @@ stock-investment-strands-agent/
 
 ---
 
-**Made with ❤️ for beginner investors**
+**Made with Kiro ❤️ for beginner investors**
