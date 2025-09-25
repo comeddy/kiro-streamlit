@@ -86,12 +86,12 @@ http://localhost:8501
 ## 📦 의존성 패키지
 
 ```
-streamlit==1.28.1
-yfinance==0.2.18
-pandas==2.0.3
-numpy==1.24.3
-plotly==5.17.0
-requests==2.31.0
+streamlit>=1.28.0
+yfinance>=0.2.18
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.17.0
+requests>=2.31.0
 ```
 
 ## 🎯 사용법
