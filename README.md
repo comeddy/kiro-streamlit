@@ -1,4 +1,4 @@
-# 📈 주식 투자 Strands Agent
+# 📈 주식 투자 Agent app
 
 초보 투자자를 위한 AI 기반 투자 도우미 웹 애플리케이션입니다. [Kiro AI tool](https://kiro.dev/)을 통해 개발된 어플리케이션으로, Streamlit을 기반으로 구축되어 직관적이고 사용하기 쉬운 인터페이스를 제공합니다. 
 
